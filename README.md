@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RafaelloUI/RafaelloUI/refs/heads/main/baner.png" alt="RafaelloUI Banner" />
+</p>
 <!-- HEADER -->
 <h1 align="center">
   <span style="font-size:2.2rem; font-weight:800; letter-spacing:.5px;">
